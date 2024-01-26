@@ -5,7 +5,6 @@ Software Engineer
 -----------------
 
 *   🌍  I'm based in Paris
-*   🖥️  See my portfolio at [MyPortfolio](http://amirramychatbi6.wixsite.com/portfolio)
 *   ✉️  You can contact me at [amirramy.chatbi@gmail.com](mailto:amirramy.chatbi@gmail.com)
 *   🚀  I'm currently working on [Captnboat Admin support](http://admin.captnboat.com/home)
 *   🧠  I'm learning Unreal Engine 5 Blue Prints & C++
