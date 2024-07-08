@@ -8,7 +8,7 @@ Software Engineer
 *   ✉️  You can contact me at [amirramy.chatbi@gmail.com](mailto:amirramy.chatbi@gmail.com).
 *   🚀  I'm currently working on [Captnboat Admin support](http://admin.captnboat.com/home).
 *   🧠  I'm learning Unreal Engine 5 Blue Prints & C++.
-*   🤝  I'm open to collaborating on SASS projects and Next level web app.
+*   🤝  I'm open to collaborating on SAAS projects and Next level web app.
 *   ⚡  My goals is set but feel free to contact me.
 *   Skills 
 <p align="left">
