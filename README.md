@@ -11,6 +11,7 @@ Software Engineer
 *   🧠  I'm learning Unreal Engine 5 Blue Prints & C++.
 *   🤝  I'm open to collaborating on SAAS projects and Next level web app.
 *   ⚡  I'm open to new opportunities so feel free to contact me.
+*   ✍️  I also like to draw in my free time.
 <!-- Skills -->
 Skills
 Programming Languages
