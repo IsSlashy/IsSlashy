@@ -6,7 +6,7 @@ Software Engineer
 -----------------
 
 *   🌍  I'm based in Paris.
-*   ✉️  You can contact me at [ramy.chatbi@captnboat.com](mailto:ramy.chatbi@captnboat.com).
+*   ✉️  You can contact me at [ramy.chatbi@captnboat.com](mailto:amirramy.pro@gmail.com).
 *   🚀  I'm currently working on [Captnboat Admin support](http://admin.captnboat.com/home).
 *   🧠  I'm learning Unreal Engine 5 Blue Prints & C++.
 *   🤝  I'm open to collaborating on SAAS projects and Next level web app.
