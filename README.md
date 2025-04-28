@@ -2,7 +2,7 @@ Hey !
 Slashy Here
 ============================================================================================================================
 
-Software Engineer
+Full stack Dev & PM in Cyber security
 -----------------
 
 *   🌍  I'm based in Paris.
