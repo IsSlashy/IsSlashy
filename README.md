@@ -6,12 +6,12 @@ Full stack Dev & PM in Cyber security
 -----------------
 
 *   🌍  I'm based in Paris.
-*   ✉️  You can contact me at [ramy.chatbi@captnboat.com](mailto:amirramy.pro@gmail.com).
-*   🚀  I'm currently working on [Captnboat Admin support](http://admin.captnboat.com/home).
+*   ✉️  You can contact me at [amirramy.pro@gmail.com](mailto:amirramy.pro@gmail.com).
+*   🚀  I'm currently working on [Auzi](https://www.auzi.fr/home).
 *   🧠  I'm learning Unreal Engine 5 Blue Prints & C++.
 *   🤝  I'm open to collaborating on SAAS projects and Next level web app.
 *   ⚡  I'm open to new opportunities so feel free to contact me.
-*   ✍️  I also like to draw in my free time.
+*   ✍️  I also like to draw anime illustration my free time.
 <!-- Skills -->
 Skills
 Programming Languages
