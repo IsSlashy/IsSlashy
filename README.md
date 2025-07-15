@@ -12,7 +12,6 @@ Full stack Dev & PM in Cyber security
 *   🤝  I'm open to collaborating on SAAS projects and Next level web app.
 *   ⚡  I'm open to new opportunities so feel free to contact me.
 *   ✍️  I also like to draw anime illustration my free time.
-*   ✨  Gen Z Premium Edition, I follow my own will rules are rules i start at 9am my feet is outside at 6pm end of the line no extra hours, no sacrifice my time is precious, you want more = pay more, hiring me should be a privilege respectfully.
 <!-- Skills -->
 Skills
 Programming Languages
