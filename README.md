@@ -5,7 +5,6 @@ Slashy Here
 Full stack Dev & PM in Cyber security
 -----------------
 
-*   🌍  I'm based in Paris.
 *   ✉️  You can contact me at [amirramy.pro@gmail.com](mailto:amirramy.pro@gmail.com).
 *   🚀  I'm currently working on [Auzi](https://www.auzi.fr/home).
 *   🧠  I'm learning Unreal Engine 5 Blue Prints & C++.
