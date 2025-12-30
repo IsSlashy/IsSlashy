@@ -4,8 +4,6 @@ Slashy Here
 
 Full stack Dev & PM in Cyber security
 -----------------
-
-*   ✉️  You can contact me at [amirramy.pro@gmail.com](mailto:amirramy.pro@gmail.com).
 *   🚀  I'm currently working on [LookEyes](https://lookeyes.st).
 *   🧠  I'm learning Unreal Engine 5 Blue Prints & C++.
 *   🤝  I'm open to collaborating on SAAS projects and Next level web app.
