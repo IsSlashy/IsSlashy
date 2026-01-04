@@ -23,4 +23,4 @@ Design Tools
 <p align="center"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> </p>
   
 Let's Connect
-<p align="center"> <a href="mailto:ramy.chatbi@captnboat.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ramy-chatbi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>  </p>
+<p align="center"> <a href="mailto:ramy.chatbi@captnboat.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a></p>
