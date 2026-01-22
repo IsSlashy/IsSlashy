@@ -8,7 +8,7 @@ Full stack Dev & PM in Cyber security
 *   🧠  I'm learning Unreal Engine 5 Blue Prints & C++.
 *   🤝  I'm open to collaborating on SAAS projects and Next level web app.
 *   ⚡  I'm open to new opportunities so feel free to contact me.
-*   ✍️  I also like to draw anime illustration my free time.
+*   ✍️  I also like to draw anime illustration in my free time.
 <!-- Skills -->
 Skills
 Programming Languages
@@ -24,3 +24,4 @@ Design Tools
   
 Let's Connect
 <p align="center"> <a href="mailto:ramy.chatbi@captnboat.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a></p>
+
