@@ -9,7 +9,6 @@ Full stack Dev & PM in Cyber security
 *   🤝  I'm open to collaborating on SAAS projects and Next level web app.
 *   ⚡  I'm open to new opportunities so feel free to contact me.
 *   ✍️  I also like to draw anime illustration in my free time.
-*   Through out the Silicon Valley and Paris I'm alone am the x10 Engineer
 <!-- Skills -->
 Skills
 Programming Languages
