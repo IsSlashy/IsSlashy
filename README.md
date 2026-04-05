@@ -1,14 +1,13 @@
-Hey ! 
+# Hey ! 
 Slashy Here
-============================================================================================================================
 
-Founder of Protocol 01 — Privacy infrastructure for Solana.
------------------
-*   🚀  I'm currently working on [Protocol-01].
-*   🧠  I'm learning Unreal Engine 5 Blue Prints & C++.
-*   🤝  I'm open to collaborating on SAAS projects and Next level web app.
-*   ⚡  I'm open to new opportunities so feel free to contact me.
-*   ✍️  I also like to draw anime illustration in my free time.
+  ### Founder of Protocol 01 — Privacy infrastructure for Solana.                                                                                                                   
+  * 🔒 Building the privacy SDK for Solana — 16 programs, 12 ZK circuits, 8 SDKs                                                                                                 
+  * ⚡ `npm install @protocol-01/zk-sdk` — any app can add private transactions in 10 lines of code
+  * 🛡️ ZK-SNARKs, STARKs, stealth addresses, post-quantum cryptography
+  * 🚀 Solo dev. $0 raised. Shipped more than teams with $155M.
+  * 🤝 Open to collaborations — SDK integrations, privacy infra, Solana ecosystem
+  * ✍️ I also draw anime illustrations in my free time
 <!-- Skills -->
  ## Skills
                                                                                                                                                                                  
