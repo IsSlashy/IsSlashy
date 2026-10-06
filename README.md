@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://styx.cash">
-    <img src="assets/ngo-header.svg" width="100%" alt="SLASHY, founder of Styx: a retro desktop with STYX.exe, an encrypted chat, stat bars, a crash pop-up and a live comment ticker."/>
+    <img src="assets/ngo-header.svg" width="100%" alt="SLASHY, founder of Styx: a retro desktop with STYX.exe, a webcam window of my character, an encrypted chat, stat bars, a crash pop-up and a live comment ticker."/>
   </a>
 </p>
 
