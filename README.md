@@ -1,71 +1,93 @@
-# Hey ! 
-Slashy Here
+<!-- Header: wave banner in the Styx palette (void #0a0a0c, cyan #39c5bb, paper #eae7df) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,60:12302e,100:39c5bb&height=190&section=header&text=Slashy&fontColor=eae7df&fontSize=64&fontAlignY=36&desc=Founder%20of%20Styx%20%C2%B7%20private%20payments%20on%20Solana&descAlignY=58&descSize=17" alt="Slashy" width="100%"/>
+</p>
 
-  ### Founder of Styx Protocol — Privacy infrastructure for Solana.                                                                                                                   
-  * 🔒 Building the privacy SDK for Solana — 16 programs, 12 ZK circuits, 8 SDKs                                                                                                 
-  * ⚡ `npm install @protocol-01/zk-sdk` — any app can add private transactions in 10 lines of code
-  * 🛡️ ZK-SNARKs, STARKs, stealth addresses, post-quantum cryptography
-  * 🚀 Solo dev/Seeking funding.
-  * 🤝 Open to collaborations — SDK integrations, privacy infra, Solana ecosystem
-  * ✍️ I also draw anime illustrations in my free time
-<!-- Skills -->
- ## Skills
-                                                                                                                                                                                 
-  ### Programming Languages
-  <p align="center">
-    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  </p>
+<p align="center">
+  <a href="https://styx.cash">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=39C5BB&center=true&vCenter=true&width=640&lines=Pay+anyone+on+Solana%2C+any+amount.;The+amount+stays+hidden.+So+does+your+wallet.;Hash-based+STARK+proofs%2C+checked+on+chain.;Built+solo%2C+one+proof+at+a+time." alt="typing intro"/>
+  </a>
+</p>
 
-  ### Blockchain & Cryptography
-  <p align="center">
-    <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Anchor-7C3AED?style=flat&logo=anchor&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ZK--SNARKs-FF6B00?style=flat&logo=ethereum&logoColor=white"/>
-    <img src="https://img.shields.io/badge/STARKs-1A1A2E?style=flat&logo=starknet&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Circom-2D2D2D?style=flat&logo=circleci&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Groth16-4A154B?style=flat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Poseidon%20Hash-0D1117?style=flat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Post--Quantum-DC143C?style=flat&logoColor=white"/>
-  </p>
+<p align="center">
+  <a href="https://styx.cash"><img src="https://img.shields.io/badge/styx.cash-live%20on%20devnet-39c5bb?style=flat-square&labelColor=0a0a0c"/></a>
+  <a href="https://x.com/Styx_PQ"><img src="https://img.shields.io/badge/@Styx__PQ-follow-eae7df?style=flat-square&logo=x&logoColor=eae7df&labelColor=0a0a0c"/></a>
+  <a href="https://x.com/Slashy_fx"><img src="https://img.shields.io/badge/@Slashy__fx-me-d9a24a?style=flat-square&logo=x&logoColor=eae7df&labelColor=0a0a0c"/></a>
+  <a href="mailto:amirramy.chatbi@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-ff77a8?style=flat-square&logo=gmail&logoColor=eae7df&labelColor=0a0a0c"/></a>
+</p>
 
-  ### Frameworks & Libraries
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-  </p>
+---
 
-  ### Databases & Infrastructure
-  <p align="center">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  </p>
+### What I'm building
 
-  ### Tools & Design
-  <p align="center">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </p>
+**[Styx](https://styx.cash)** lets anyone on Solana send a payment without showing who paid.
 
-  ### Let's Connect
-  <p align="center">
-    <a href="mailto:amirramy.chatbi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-    <a href="https://x.com/Slashy_fx"><img src="https://img.shields.io/badge/@Slashy__fx-000000?style=flat&logo=x&logoColor=white"/></a>
-    <a href="https://protocol-01.vercel.app"><img src="https://img.shields.io/badge/Protocol%2001-00D4AA?style=flat&logo=solana&logoColor=white"/></a>
-    <a href="https://www.npmjs.com/package/@protocol-01/zk-sdk"><img
-  src="https://img.shields.io/badge/npm-@protocol--01/zk--sdk-CB3837?style=flat&logo=npm&logoColor=white"/></a>
+- **Any amount.** You deposit a standard size, then pay exactly what you owe from a private balance.
+- **Proofs anyone can check.** Every payment carries a hash-based STARK proof that a Solana program verifies on chain.
+- **A relayer pays the fees,** so the payer's wallet never signs the payment.
+- **Status:** live on Solana devnet, not externally audited yet. Mainnet comes after an audit.
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Now**
+- Shipping Styx v2: any amount, payment links, discreet sends
+- Hardening the relayer so no one can drain it, even by trying
+- Measuring everything, publishing only what is measured
+
+</td>
+    <td valign="top" width="50%">
+
+**Next**
+- A merchant kit: checkout button, server-side confirmation
+- A leaner mainnet launch budget
+- An external audit before real money
+
+</td>
+  </tr>
+</table>
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,py,cpp,nodejs&theme=dark" alt="languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,docker,postgres,vercel,git,figma,ps,pr&theme=dark" alt="tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solana-programs-39c5bb?style=flat-square&logo=solana&logoColor=eae7df&labelColor=0a0a0c"/>
+  <img src="https://img.shields.io/badge/Anchor-Rust-39c5bb?style=flat-square&labelColor=0a0a0c"/>
+  <img src="https://img.shields.io/badge/STARK-FRI%20%2B%20Poseidon2-d9a24a?style=flat-square&labelColor=0a0a0c"/>
+  <img src="https://img.shields.io/badge/Circom-Groth16-d9a24a?style=flat-square&labelColor=0a0a0c"/>
+  <img src="https://img.shields.io/badge/Rust-WASM%20prover-ff77a8?style=flat-square&logo=webassembly&logoColor=eae7df&labelColor=0a0a0c"/>
+</p>
+
+---
+
+### Off the clock
+
+I draw anime illustrations. Some of them end up in the Styx visuals.
+
+<!-- Optional: drop one of your illustrations here, e.g. <img src="art/illustration.png" width="420"/> -->
+
+---
+
+### Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsSlashy/IsSlashy/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsSlashy/IsSlashy/output/snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/IsSlashy/IsSlashy/output/snake.svg"/>
+  </picture>
+</p>
+
+<p align="center"><sub>Most of my work lives in private repos, so the public numbers undersell it.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39c5bb,40:12302e,100:0a0a0c&height=110&section=footer" width="100%"/>
+</p>
